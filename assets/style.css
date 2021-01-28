@@ -1,0 +1,17 @@
+.ans-button {
+  background-color: rgb(95, 19, 95);
+  color: white;
+  padding: 2px;
+  margin: 5px;
+  font-size: 29px;
+}
+
+.ans-button:hover {
+  background-color: burlywood;
+  padding: 2px;
+  margin: 5px;
+}
+
+#beginButton {
+  font-size: 20px;
+}
